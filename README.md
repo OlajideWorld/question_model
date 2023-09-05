@@ -11,8 +11,6 @@ model-index:
 <!-- This model card has been generated automatically according to the information the Trainer had access to. You
 should probably proofread and complete it, then remove this comment. -->
 
-# 8_roberta-large_train_korquad-1_aihub10_final
-
 This model is a fine-tuned version of [klue/roberta-large](https://huggingface.co/klue/olajidewurld) on the None dataset.
 It achieves the following results on the evaluation set:
 - Exact Match: 82.0646
