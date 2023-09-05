@@ -4,7 +4,7 @@ tags:
 metrics:
 - f1
 model-index:
-- name: 8_roberta-large_train_korquad-1_aihub10_final
+- name: olajide_model2
   results: []
 ---
 
@@ -13,7 +13,7 @@ should probably proofread and complete it, then remove this comment. -->
 
 # 8_roberta-large_train_korquad-1_aihub10_final
 
-This model is a fine-tuned version of [klue/roberta-large](https://huggingface.co/klue/roberta-large) on the None dataset.
+This model is a fine-tuned version of [klue/roberta-large](https://huggingface.co/klue/olajidewurld) on the None dataset.
 It achieves the following results on the evaluation set:
 - Exact Match: 82.0646
 - F1: 89.8532
